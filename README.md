@@ -1,5 +1,7 @@
 # New World
 
+![D6148F62-750D-4C4D-B2DA-FF8A88567F63_1_105_c](https://github.com/user-attachments/assets/449cad55-f5c5-4453-87a9-d48fa17b643c)
+
 ### ANDHRA Bandersnatch: Training Neural Networks to Predict Parallel Realities
 
 
@@ -45,3 +47,7 @@ python test_multi_100.py
 ### Code reference
 
 https://github.com/kuangliu/pytorch-cifar
+
+
+
+
