@@ -43,6 +43,7 @@ python test_multi_100.py
 
 (3) Feed the results from five runs into the t-test.py script, which performs a statistical significance test with mean & standard deviation calculation. 
 
+### If you encounter any issues reproducing the main paper's results, please don't hesitate to open an issue. 
 
 ### Code reference
 
